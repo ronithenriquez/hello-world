@@ -1,5 +1,4 @@
 # hello-world
-First Github!
 
 Hi there!
 
